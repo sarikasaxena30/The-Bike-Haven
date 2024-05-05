@@ -1,4 +1,5 @@
 The Bike Haven Sales Dashboard
+
 Overview
 This repository contains the code and resources for creating a visually interactive and informative dashboard for The Bike Haven, a fictional bike shop in San Francisco. The goal of this dashboard is to provide insights into sales performance, product categories, customer behavior, and budget comparisons.
 
